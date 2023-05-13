@@ -28,6 +28,8 @@ unintended emissions from the decay and uncontrolled burning of biomass, which i
 in the region. 
 ________________
 ### PRIOR HISTORY
+
+PP has never taken any issuance fromt he CDM or VERRA during the cuurent UCR crediting period as no CDM/VCS verification has been done
 ___________________
 
 SECTORAL SCOPE: 01, Energy industries (Renewable/Non-renewable sources)
